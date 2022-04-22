@@ -2,7 +2,6 @@
 * {
     box-sizing: border-box;
     font-family: 'Montserrat', sans-serif;
-    /* font-family: 'Open Sans', sans-serif; */
 }
 h1, h2, h3, h4, h5, h6, p {
     margin: 0px;
@@ -18,7 +17,6 @@ h1, h2, h3, h4, h5, h6, p {
 .grid_container01 h1 {
     font-size: 34px;
     padding-top: 25px;
-    /*  */
     display: inline-block;
     position: relative;
     font-family: 'LEMON MILK';
@@ -140,7 +138,6 @@ button.ladrillo {
     font-weight: 500;
 }
 
-
 /* ======= MEDIA_QUERIES Styles ======= */
 /* ======= Personal_Breakpoint: 480px ======= */
 @media screen and (min-width: 480px) {
@@ -154,6 +151,7 @@ button.ladrillo {
         height: 200px;
     }
 }
+
 /* ======= Boostrap_md Breakpoint: 768px ======= */
 @media screen and (min-width: 768px) {
     div.iconos {
@@ -231,9 +229,6 @@ button.ladrillo {
     }
 }
 
-
-
-
 /* ======= PERSONAL_MAQUETATION Styles ======= */
 .rrrr {
     border: 1px solid red;
@@ -241,11 +236,3 @@ button.ladrillo {
 .gggg {
     border: 1px solid green;
 }
-
-/*
-@media screen and (min-width: 768px) {
-    p {
-        font-size: 1rem;
-    }
-}
-*/
